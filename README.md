@@ -1,3 +1,3 @@
-# 前端知识记录
+# 前端知识梳理
 
-![Alt text](src/asset/image/knowledge_map.png "Optional title")
+![Alt text](src/asset/image/knowledge_map.png "知识图谱")
