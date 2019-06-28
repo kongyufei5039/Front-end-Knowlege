@@ -6,3 +6,4 @@
 
 ### 浏览器
 - [CORS 跨域访问机制理解](https://github.com/kongyufei5039/Front-end-Knowlege/issues/2)
+- [Class](https://github.com/kongyufei5039/front-end-knowlege/issues/3)
