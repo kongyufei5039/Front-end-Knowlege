@@ -4,6 +4,8 @@
 
 ## JavaScript
 
+### Syntax
+- [JavaScript Hoisting](https://github.com/kongyufei5039/front-end-knowlege/issues/15)
 ### 浏览器
 - [浏览器工作原理之多进程架构](https://github.com/kongyufei5039/front-end-knowlege/issues/8)
 - [浏览器工作原理之网络](https://github.com/kongyufei5039/front-end-knowlege/issues/7)
